@@ -17,27 +17,27 @@ My research interests include:
 - Perception in the BEV(Bird's Eye View) representation
 - Semantic segmantation
 
-Education
-======
+# Education
+
 - **Master**: Institute of Automation, Chinese Academy of Sciences. (2022.9-Present)
 - **Bachelor**: Shandong University (2018.9-2022.6)
 
-News
-======
+# News
+
 - 07/2023 our work "FeaCo: Reaching Robust Feature-Level Consensus in Noisy Pose Conditions" was accepted by *ACM International Conference on Multimedia ([ACM-MM 2023](https://www.acmmm2023.org/))*
 
 <!-- Publications
 ======
 - Jiaming Gu, Jingyu Zhang, Muyang Zhang, Weiliang Meng, Shibiao Xu, jiguang zhang, Xiaopeng Zhang -->
 
-Awards
-======
+# Awards
+
 |Date|Award|
 |  ----  | ----  |
 |06/2023|Merit Student, University of Chinese Academy of Sciences|
 |06/2023|Outstanding Student Cadre, University of Chinese Academy of Sciences|
 |05/2023|Excellent Communist Youth League Cadre, University of Chinese Academy of Sciences|
 |06/2022|Outstanding Graduate, Shandong University|
-|12/2021|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Excellent Student, Shandong University|
-|12/2020|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Excellent Student, Shandong University|
-|12/2019|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Excellent Student, Shandong University|
+|12/2021|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student, Shandong University|
+|12/2020|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student, Shandong University|
+|12/2019|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student, Shandong University|
