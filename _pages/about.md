@@ -24,7 +24,7 @@ Education
 
 News
 ======
-- 07/2023 our work "FeaCo: Reaching Robust Feature-Level Consensus in Noisy Pose Conditions" was accepted by *ACM International Conference on Multimedia (ACM-MM 2023)*
+- 07/2023 our work "FeaCo: Reaching Robust Feature-Level Consensus in Noisy Pose Conditions" was accepted by *ACM International Conference on Multimedia ([ACM-MM 2023](https://www.acmmm2023.org/))*
 
 <!-- Publications
 ======
