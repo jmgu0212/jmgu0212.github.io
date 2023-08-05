@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Jiaming Gu"
-  avatar           : "JiamingGu.jpg"
+  avatar           : "resume/JiamingGu.jpg"
   bio              : "A graduate student at the Institute of Automation, Chinese Academy of Sciences."
   location         : "Beijing, China"
-  employer         : "Weiliang Meng"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : #　"Weiliang Meng"
+  pubmed           : #　"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://https://scholar.google.com/citations?user=j1Xe9OIAAAAJ&hl=zh-CN"
   email            : "gujiaming2022@ia.ac.cn"
   researchgate     : "https://www.https://www.researchgate.net/profile/Jiaming-Gu-9"
