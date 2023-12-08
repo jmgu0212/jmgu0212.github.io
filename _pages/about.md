@@ -49,9 +49,13 @@ Please refer to [Publications](/publications/) for details.
 
 # Project Achievements
 
+|Duration|Project Name|Achievements|
 |  ----  | ----  | ----  |
-|10/2022-10/2023|Localization Error Rectification of Collaboration Perception|1.Published a paper at ACM MM (CCF-A) international conference|
-|05/2022-11/2023|Real-time Orthophoto Stitching of UAV Images|1.Published a paper at IROS (CCF-C) international conference|
+|10/2022-10/2023|Localization Error Rectification of Collaboration Perception|1. Published a paper at ACM MM (CCF-A) international conference<br>2. A patent(First Position)|
+|05/2022-11/2023|Real-time Orthophoto Stitching of UAV Images|1. Published a paper at IROS (CCF-C) international conference|
+|04/2022-06/2023|Indoor Intelligent Visual Surveillance System based on Action Recognition|1. Software Copyright|
+|10/2021-06/2023|Semantic Segmentation and Detection of Natural Disaster Scenes|1. Published a paper at Visual Computer (SCI) Journal|
+
 
 <!-- # Awards
 
