@@ -17,8 +17,10 @@ My research interests include:
 - Computer Graphics
 - Semantic segmantation
 
-My project interests include: 
-- Development Projects Related to C++
+My technical interests and proficiencies: 
+- Development/Research Projects Related to C++/Python
+- Digital image processing
+- IELTS 7.0; CET_6 552
 
 Email: [gjm17861082107@163.com](mailto:gjm17861082107@163.com)
 
