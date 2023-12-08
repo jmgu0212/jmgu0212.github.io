@@ -20,7 +20,7 @@ My research interests include:
 My technical interests and proficiencies: 
 - Development/Research Projects Related to C++/Python
 - Digital image processing
-- IELTS 7.0; CET_6 552
+- English: IELTS 7.0; CET_6 552
 
 Email: [gjm17861082107@163.com](mailto:gjm17861082107@163.com)
 
