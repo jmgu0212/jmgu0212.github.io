@@ -17,6 +17,9 @@ My research interests include:
 - Computer Graphics
 - Semantic segmantation
 
+My project interests include: 
+- Development Projects Related to C++
+
 Email: [gjm17861082107@163.com](mailto:gjm17861082107@163.com)
 
 # Education
