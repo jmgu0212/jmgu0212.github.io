@@ -57,17 +57,17 @@ Please refer to [Publications](/publications/) for details.
 |10/2021-06/2023|Semantic Segmentation and Detection of Natural Disaster Scenes|1. Published a paper at Visual Computer (SCI) Journal|
 
 
-<!-- # Awards
+# Awards
 
 |Date|Award|
 |  ----  | ----  |
 |06/2023|Merit Student, University of Chinese Academy of Sciences|
 |06/2023|Outstanding Student Cadre, University of Chinese Academy of Sciences|
 |05/2023|Excellent Communist Youth League Cadre, University of Chinese Academy of Sciences|
-|06/2022|Outstanding Graduate, Shandong University|
+|06/2022|Outstanding Graduate, Bachelor of Honours, Shandong University|
 |12/2021|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student, Shandong University|
 |12/2020|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student, Shandong University|
-|12/2019|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student, Shandong University| -->
+|12/2019|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student, Shandong University|
 
 
 
