@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about_CN/
 title: "关于我"
 excerpt: "关于我"
 author_profile: true
