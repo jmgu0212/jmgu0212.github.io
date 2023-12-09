@@ -59,16 +59,14 @@ Please refer to [Publications](/publications/) for details.
 
 # Awards
 
-|Date|Award|
-|  ----  | ----  |
-|06/2023|Merit Student, University of Chinese Academy of Sciences|
-|06/2023|Outstanding Student Cadre, University of Chinese Academy of Sciences|
-|05/2023|Excellent Communist Youth League Cadre, University of Chinese Academy of Sciences|
-|06/2022|Outstanding Graduate, Bachelor of Honours, Shandong University|
-|12/2021|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student, Shandong University|
-|12/2020|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student, Shandong University|
-|12/2019|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student, Shandong University|
+|Date|Award|Institution|
+|  ----  | ----  | ---- |
+|06/2023|Merit Student, Outstanding Student Cadre, Excellent Communist Youth League Cadre | University of Chinese Academy of Sciences|
+|06/2022|Outstanding Graduate, Bachelor of Honours | Shandong University|
+|12/2021|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student | Shandong University|
+|12/2020|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student | Shandong University|
+|12/2019|First-Class Academic Scholarship, First-Class Special Scholarship(Research Innovation), Merit Student | Shandong University|
 
-
+[中文](/about_CN/)
 
 <!-- <a href="https://info.flagcounter.com/ew9G"><img src="https://s11.flagcounter.com/count2/ew9G/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a> -->
