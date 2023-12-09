@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my full paper list on <u><a href="https://scholar.google.com/citations?user=j1Xe9OIAAAAJ&hl=zh-CN">my Google Scholar profile</a>.</u>
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
+{% if author.googlescholar %}
+  You can also find my full paper list on <u><a href="https://scholar.google.com/citations?user=j1Xe9OIAAAAJ&hl=zh-CN">my Google Scholar profile</a>.</u>
+{% endif %}
 
 {% include base_path %}
 
