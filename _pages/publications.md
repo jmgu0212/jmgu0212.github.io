@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -13,22 +13,21 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
-<!-- {% include base_path %}
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-{% assign lastYear = '' %}
+{% include base_path %}
 
 {% for post in site.publications reversed %}
-
-  {% assign paperYear = post.paperYear %}
-
-  {% if paperYear != lastYear %}
-    {% include year.html %}
-    {% assign lastYear = paperYear %}
-  {% endif %}
-
   {% include archive-single.html %}
-
-{% endfor %} -->
+{% endfor %}
