@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about_CN/
 title: "About Me"
 excerpt: "About me"
 author_profile: true
